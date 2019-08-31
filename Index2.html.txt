@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Lista de películas favoritas</title>
+ <head>
+ <body>
+  <ol>
+    <li>El Padrino II</li>
+    <img src="imagen_carátura.jpg" width="350" height="600" alt="Portada película El Padrino II">
+    <li>Crash</li>   
+    <img src="imagen_carátura.jpg" width="350" height="600" alt="Portada película Crash">
+    <li>Cadena Perpétua</li>
+    <img src="imagen_carátura.jpg" width="350" height="600" alt="Portada película Cadena Perpétua">
+    <li>EL Padrino</li>
+    <img src="imagen_carátura.jpg" width="350" height="600" alt="Portada película El Padrino">
+    <li>Terminator 2</li>
+    <img src="imagen_carátura.jpg" width="350" height="600" alt="Portada película Terminator 2">
+     </ol>
+  </body>
+</html>

@@ -2,7 +2,7 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Lista de películas favoritas</title>
+  <title>Top 5 de películas favoritas</title>
  <head>
  <body>
   <ol>
